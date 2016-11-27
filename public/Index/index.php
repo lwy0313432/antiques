@@ -3,7 +3,7 @@
  * Yindou Framework
  * (C)2015-2020 Yindou Inc. (http://www.yindou.com)
  *
- * yaf 入口文件
+ * yaf 入口文件ha 
  *
  * @Package Yindou Index
  * @version $Id$
